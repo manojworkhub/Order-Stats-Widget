@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Revenue",
+    "content": "10",
+    "toggle": "",
+    "logo": "https://i.ibb.co/L9hmv72/arrow-up-right-circle-1024x1024.png",
+    "amount": "$2.047"
+  },
+  {
+    "id": 2,
+    "name": "Orders",
+    "content": "20",
+    "toggle": "true",
+    "logo": "https://i.ibb.co/wBbDLkX/cart.png",
+    "amount": "356"
+  },
+  {
+    "id": 3,
+    "name": "Dine in",
+    "content": "10",
+    "toggle": "true",
+    "logo": "https://i.ibb.co/cTw9dxr/restaurant.png",
+    "amount": "220"
+  },
+  {
+    "id": 4,
+    "name": "Orders",
+    "content": "5",
+    "toggle": "",
+    "logo": "https://i.ibb.co/9ZWcGBp/coffee.png",
+    "amount": "135"
+  }
+]
